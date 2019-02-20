@@ -1,0 +1,1 @@
+insert into customer(customer_id,customer_name,contact_no,address,gender) values (1001,'Martin',89789898,'Englewood','M');
